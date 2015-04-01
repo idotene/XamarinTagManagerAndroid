@@ -35,3 +35,5 @@ In your Activity, call to
 After the callback as returned, you can fire events like this:
 
     _tagmanager.DataLayer.PushEvent("openScreen", DataLayer.MapOf("screenName", "testScreen"));
+
+Lastly, this guide was followed by the guidelines instructed here: https://developers.google.com/tag-manager/android/v4/
