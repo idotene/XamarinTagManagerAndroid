@@ -1,4 +1,4 @@
-# XamarinTagManagerAndroid
+# Xamarin Tag Manager Android
 Step by step guide to integrate google tag mamager in Xamarin Android
 
 This sample project demonstrates how to integrate Google tag manager in Xamarin.Android.
