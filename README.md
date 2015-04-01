@@ -25,6 +25,7 @@ Configuration:
 Code (at last!):
 
 In your Activity, call to 
+    
     var tagmanager = TagManagerClass.GetInstance(this);
     
      var pendingResult = _tagmanager.LoadContainerPreferNonDefault("GTM-XXXXXX",
